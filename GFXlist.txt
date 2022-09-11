@@ -1,0 +1,794 @@
+Graphics List
+=============
+
+This is a document of every GFX file exported by Lunar Magic, where they are
+used and what they contain. For ease of use alternative names are included for a
+lot of tiles to make searching in the document easier.
+
+GFX00.bin (4bpp) - Global Level Sprites
+---------------------------------------
+
+GFX00.bin contains the "Nintendo presents" logo, some global sprite graphics
+(notably the power-up graphics) and the 8x8 Mario tiles.
+
+While this file contains the unpressed P-switch it does not contain the pressed
+P-switch. The pressed P-switch is in GFX01.bin.
+
+* "Nintendo presents" logo
+* 8x8 Mario tiles (seen when running or flying)
+* 8x8 Bubble (seen when swimming)
+* 8x8 "!" Exclamation mark (seen in one of the cutscenes)
+* Feather
+* Mushroom
+* Flower
+* Springboard (all three frames)
+* Flying question block
+* Fireball
+* Block breaking details
+* Brown "used" block sprite
+* Score sprites (100, 200, 400, 800, 1000, 2000, 4000, 8000)
+* 1-up, 2-up, 3-up and 5-up sprites (the 5-up is glitched in the original game)
+* Star
+* Yoshi wing frame ("folded")
+* "Sliding" Koopa, Koopa out of shell
+* Turn block sprite
+* P-switch
+* Puff of smoke
+* Star sparkle sprite
+
+GFX01.bin (4bpp) - Global Level Sprites
+---------------------------------------
+
+* Berry
+* Koopa
+* Koopa shell
+* Bullet Bill
+* Goomba (Kuribon)
+* Piranha Plant
+* Message Block
+* Goal tape (alt. Goal bar)
+* "Coin game" coin
+* Yoshi wing frame ("open"),
+* No-shell Koopa (Koopa out of shell)
+* Spinning coin (dropped by enemies when killed with fireball)
+* Keyhole
+* Key
+* Stomped Koopa
+* Star
+* Pressed P-switch
+* Flopping Cheep Cheep, Cheep Cheep out of water
+
+GFX02.bin (4bpp) - Forest Sprites
+---------------------------------
+
+* Spiny walking
+* Spiny falling (spinning)
+* Wiggler
+* Bubble shine
+* Jumping Flame, Hopping Flame
+* Bubble
+* Parachuting Bob-omb, Para-Bomb
+* Parachuting Goomba, Parachute Kuribon, Para-Goomba
+* Pipe top, Growing/shrinking pipe end
+* Lakitu, Fishin' Lakitu
+* Lakitu's fishing rod
+* Bob-omb
+* P-balloon
+* Translucent block sprite (required by the "changing item" minigame)
+
+GFX03.bin (4bpp) - Castle Sprites
+-------------------------------
+
+* Bone, Dry Bones' Bone
+* Bony Beetle
+* Magikoopa's Magic, Magi Koopa's Magic
+* ON/OFF Switch Transition (required by ON/OFF block)
+* Thwomp
+* Magikoopa, Magi Koopa
+* Thwimp
+* Fishbone
+* Diagonal Podoboo, Diagonal Reflecting Fireball
+* Lava splashes (used by vertical Podoboo, Fireball)
+* Moving block wall
+* Falling spike
+* Candle flame (as seen in castle background)
+* Throwing Dry Bones body
+* Ball 'n' Chain, Ball and Chain
+
+GFX04.bin (4bpp) - Underground Sprites, Lava Sprites
+----------------------------------------------------
+
+GFX04.bin also contains the unused Piranha Plant stem.
+
+* Buzzy Beetle
+* Bouncing Ball, Puntin' Chuck's Bouncing Ball
+* Spike Top
+* Blargg
+* Swoopers, Swooper Bat
+* Lava splashes (used by Blargg)
+* Puntin' Chuck's body
+* Upside-down Piranha Plant's stem
+* Floating Skulls, Floating Skull Platform
+* Translucent block sprite (required by the "changing item" minigame)
+
+GFX05.bin (4bpp) - Mushroom Sprites, Line-guided Sprites, Platform Sprite Set
+-----------------------------------------------------------------------------
+
+* Scale platforms, Scaling Mushroom Ledges
+* Diggin' Chuck's Body
+* Rock Platform, Flying Rock Platform
+* ON/OFF Switch Transition (required by ON/OFF block)
+* Goal Sphere, Goal Point Question Sphere
+* Line-guided Chainsaw
+* Wood platform chain
+* Vertical Bullet Bill
+* Diagonal Bullet Bill
+* Floating Spike Ball
+* Line-guided "machine" (used by line-guided chainsaw and line-guided rope)
+* Bouncing Rock, Diggin' Chuck's Rock
+* Fuzzy, Fuzz Ball
+* Orange Platform
+* Line-guided rope
+* Checkerboard platform
+* `Z`
+
+GFX06.bin (4bpp) - Water Sprites, Ghost Sprites
+-----------------------------------------------
+
+* Torpedo Ted
+* Torpedo Ted Spawner Hand
+* Porcu-puffer
+* Horizontal Dolphin
+* Rip Van Fish
+* Blurp, Blurp Fish
+* Urchin Body
+* Urchin Eyes
+* Vertical Dolphin
+* Whistlin' Chuck's and Rip Van Fish's "z"s
+* Fishin' Boo
+
+GFX07.bin (4bpp) - Ghost House Foreground
+-----------------------------------------
+
+GFX07.bin contains the ghost house foreground and a copy of the Torpedo Ted
+spawner.
+
+* Diagonal wooden beam
+* Wooden stairs
+* Vertical wooden beam
+* 16x16 Wooden block
+* 16x8 Wooden platform
+* Window (unused?)
+* "Ghost house exit" ground
+* Ghost house cobweb
+* Ghost house clock
+* Ghost house bricks
+* Wooden crate
+* "GHOST HOUSE" sign
+* Torpedo Ted launcher, Torpedo Ted spawner
+* Thin vertical spike
+* Thin horizontal spike
+* Vertical bone
+* Horizontal log
+
+GFX08.bin (4bpp) - Bonus Game FG, Switch Palace FG, Yoshi's House FG, OW Tiles
+------------------------------------------------------------------------------
+
+GFX08.bin contains a lot of different tile sets: the foreground for the Bonus
+Game, the foreground for the Switch Palace, the foreground for Yoshi's House
+(which includes the old highlight grass) and Bowser's Castle from the overworld.
+
+* Vertical "1-up bonus game" platform
+* Bonus game foreground, Switch Palace foreground
+* Yoshi's house, Yoshi's tree
+* Yoshi's foreground
+* Switch Palace switch
+* Yoshi's fireplace
+* Yoshi's mailbox
+* Bowser's castle (overworld 8x8 tiles)
+* Pressed Switch Palace switch
+* Yoshi's "YOSHI" sign
+* Sunken ship level tile
+
+GFX09.bin (4bpp) - Pokey Sprite Set, Super Koopa Sprite Set
+-----------------------------------------------------------
+
+* Sumo Brother
+* Monty Mole
+* Pokey
+* Volcano Lotus
+* Pitchin' Chuck
+* Pitchin' Chuck's Baseball
+* Super Koopa
+* Sumo Brother Flame
+* Translucent block sprite (required by the "changing item" minigame)
+
+GFX0A.bin (4bpp) - Wendy Sprites, Lemmy Sprites
+-----------------------------------------------
+
+* Wendy
+* Lemmy
+* Pipe end
+
+GFX0B.bin (4bpp) - Morton Sprites, Roy Sprites
+----------------------------------------------
+
+* Morton
+* Roy
+* Ludwig
+* `1F` (most likely placeholder)
+
+GFX0C.bin (4bpp) - Underground Background, Ghost House Background
+-----------------------------------------------------------------
+
+* Underground background
+* Ghost house inside background
+* Ghost house outside background
+* Sunken ship 2x background (used in sublevel F8)
+
+GFX0D.bin (4bpp) - Underwater Background, Font
+----------------------------------------------
+
+GFX0D.bin contains a variety of tiles including: the pressed switch palace
+switch, a rescued Princess Peach, a lowercase 4bpp font and the underwater
+background.
+
+* Pressed Switch Palace switch (sprite?)
+* Rescued Princess Peach
+* Rescued Princess Peach giving Mario a kiss
+* `abcdefg`
+* `hijklmn`
+* `opqrstuv`
+* `wxyZ#.,'`
+* `PM`
+* `Y`
+* Underwater background, Underwater cliffs
+* Yoshi's Tongue (?)
+* Puffs of smoke (used when you beat bowser?)
+
+GFX0E.bin (4bpp)
+----------------
+
+GFX0E.bin contains a lot tiles from Bowser's castle and some tiles from the
+"The End" picture.
+
+* Disco ball, Disco ball light
+* Bouncing Ball, Puntin' Chuck's Bouncing Ball
+* Volcano Lotus
+* Pitchin' Chuck
+* Pitchin' Chuck's Baseball
+* Ninji
+* Lava splashes
+* Puntin' Chuck
+* P-ballon
+* Princess Peach's head from the "The End" picture
+* Princess Peach's dress from the "The End" picture
+
+GFX0F.bin (4bpp) - Overworld Sprites, Yoshi's House Sprites, Font
+-----------------------------------------------------------------
+
+GFX0F.bin contains the (scrambled) font for all the level begin / level end
+messages, some cutscene tiles and some animations for Yoshi's house.
+
+* "GAME OVER" font
+* "TIME UP!" font
+* "MARIO START!" font
+* "LUIGI START!" font
+* "EXIT" sign
+* No Yoshi sign
+* Yoshi's fireplace's fire
+* Yoshi's house's birds, Yoshi's birds
+* Princess Peach riding Yoshi
+
+GFX10.bin (4bpp) - Overworld Sprites
+------------------------------------
+
+GFX10.bin contains most of the sprites from the overworld. There's a couple of
+placeholder tiles that get replaced in-game.
+
+* Mario
+* Lakitu
+* Mario's shadow
+* Mario's water effects
+* Piranha Plant
+* Yoshi
+* Cloud
+* Cheep Cheep
+* Cage Bird
+* Boo
+* Mario riding Yoshi
+* Bowser silhouette
+* Koopa Kid
+* Bowser Sign
+* Mario's Halo
+
+GFX11.bin (4bpp) - Ghost Sprites
+--------------------------------
+
+GFX11.bin contains the massive Big Boo, which is re-used for the large green gas
+bubble. The rest of the tiles are various ghost house sprites.
+
+* Big Boo
+* Large green gas bubble, Giant green ghost house bubble
+* Boo
+* Fishin' Boo's rod
+* Fishin' Boo's flame
+* Boo Block
+* Eerie
+* `1`, `L`
+
+GFX12.bin (4bpp) - Castle Sprites
+---------------------------------
+
+GFX12.bin contains some castle sprites like the "climbing net" door and the
+wooden spike. There's also a couple of placeholder tiles.
+
+* Climbing Net Door
+* Climbing Koopa
+* Lil Sparky
+* Hothead
+* Dry Bones
+* Bowser Statue
+* Bowser Statue's fireball
+* Wooden Spike
+* Brown Platform
+* Grinder
+
+GFX13.bin (4bpp) - Chuck Sprites
+--------------------------------
+
+GFX13.bin contains a bunch of Yoshi related sprites and tiles needed for chucks 
+among some others.
+
+* Yoshi Egg, Yoshi's Egg
+* Yoshi fireball, Yoshi's fireball
+* Chuck (Chargin' Chuck, Splittin' Chuck, Bouncin' Chuck, Clappin' Chuck)
+* Whistlin' Chucks head
+* Amazing Flyin' Hammer Brother
+* Amazing Flyin' Hammer Brother's Hammers
+* Lakitu's Cloud's Face
+* Cheep Cheep
+* Noteblock
+* Wooden Platform (Grey Platform)
+
+GFX14.bin (4bpp) - Global Objects, Overworld Animations
+-------------------------------------------------------
+
+GFX14.bin is a little bit special. Half of it is global tiles for levels and the
+other half is animation frames for the overworld. In each setting the other half
+is overwritten with other tiles.
+
+* Vertical pipe
+* Horizontal pipe
+* Cement block
+* Turn block
+* Switch block
+* Yoshi Coin, Dragon Coin
+* Bullet Bill shooter, Bullet Bill spawner
+* Donut bridge
+* Rope platform
+* Goal arrow sign tiles
+* Overworld cloud (animation)
+* Overworld water (tile, unused?)
+* Overworld flowing water (tile, unused?)
+* Overworld diagonally flowing water (tile, unused?)
+* Overworld large twinkling star (animation)
+* Overworld small twinkling star (animation)
+* Overworld cave sparkle (animation)
+* Overworld waterfall (animation)
+
+GFX15.bin (4bpp) - Grass Foreground
+-----------------------------------
+
+GFX15.bin contains the standard foreground for Super Mario World. Note that
+editing the tiles in here does not change the foreground in Yoshi's House. The
+foreground tiles for Yoshi's House are located in GFX08.bin.
+
+* Grass foreground
+* Small bush
+* Arches
+* Monty Mole foreground tiles
+* Ground bush
+* Thin vertical pipe
+* Thin horizontal pipe
+
+GFX16.bin (4bpp) - Rope Foreground
+----------------------------------
+
+GFX16.bin contains all the rope foreground tiles. It should be noted that
+there's no corners for the rope foreground.
+
+* Rope foreground (no corner)
+* Mushroom platform
+* Guide lines (for line-guided sprites)
+* Plant on column
+* Vertical log
+* Horizontal log
+* Vertical worn-down log
+* Horizontal worn-down log
+
+GFX17.bin (4bpp) - Global Objects
+---------------------------------
+
+GFX17.bin contains a lot of global tiles for levels. The very first 16x16 tile
+is a berry from the beta of Super Mario World. In-game it is replaced with the
+berry animation.
+
+* Berry
+* Climbing net
+* Climbing net border
+* Bullet Bill shooter extension, Bullet Bill spawner extension
+* Goal arrow sign grass
+* Door
+* Vine
+* Pressed P-switch (?)
+* Goal tape
+* Goal arrow sign tiles
+* 3-up moon
+* Translucent block (used in the "changing item" minigame)
+* Goal Point
+* Large Bush
+* Diagonal pipe
+* "ON OFF" placeholder tiles (replaced by ON/OFF block and spinning Turn block)
+* "Run on wall" smiling triangle
+* 8 single color tiles
+
+GFX18.bin (4bpp) - Castle Foreground
+------------------------------------
+
+GFX18.bin most notably contains the castle foreground, the large spikes and the
+large boss door. This is also where you find the unique foreground for the ghost
+house cutscenes.
+
+* Castle foreground
+* Vertical spike
+* Horizontal spike
+* Castle guide line
+* Large wooden spike
+* Rock wall background
+* Bowser's canvas (used in level 1D2)
+* Ghost House outside foreground
+* Vertical column
+* Cement ground for canvas object (used in level 1D2)
+* `E`
+* Boss door
+* Stone block wall
+
+GFX19.bin (4bpp) - Forest Background, Cloud Background
+------------------------------------------------------
+
+GFX19.bin contains tiles for many different backgrounds including the hills
+background, the clouds background, the rocks background and the forest leaves
+background. It's also the six tiles needed for the log seen slighty from above.
+
+* Hills background
+* Clouds background
+* Sharp rocks background
+* Log (foreground)
+* Forest leaves background
+
+GFX1A.bin (4bpp) - Underground Foreground
+-----------------------------------------
+
+GFX1A.bin contains the tiles used in the underground and underwater foreground.
+There's also 15 (!) placeholder tiles.
+
+* Underground foreground
+* Torpedo Ted launcher, Torpedo Ted spawner
+* Underground foreground in front of water
+* Vertical bone
+* Horizontal bone
+
+GFX1B.bin (4bpp) - Large hills background, Castle background
+------------------------------------------------------------
+
+* Large hills background
+* Castle background
+
+GFX1C.bin (4bpp) - Overworld Tile Set
+-------------------------------------
+
+GFX1C.bin contains the primary tiles for the overworld tile set. Note that 11
+tiles in this file are placeholder tiles which get replaced by animations.
+
+* Overworld tiles
+* Hills
+* Revealed paths
+* Small ladder
+
+GFX1D.bin (4bpp) Overworld Tile Set, Overworld Sprites
+------------------------------------------------------
+
+* Switch Palace level tile
+* Large tree
+* Small tree
+* Hidden path, shaded path
+* Dirt ladder
+* Small hills extension
+* Vines
+* Rocks
+* Star Road moon
+* Large ladder
+* Yoshi's Island specific 8x8 tiles
+* Bandaged large hill
+* Valley of Bowser entrance (large Bowser head)
+
+GFX1E.bin (4bpp) - Overworld Sprites
+------------------------------------
+
+* Castle signs, 1 to 7
+* "Left or Right" sign (used by Yoshi's house)
+* Underground level tile
+* Level tile
+* Large level tile
+* Fortress level tile
+* Defeated castle level tile
+* Pipe tile
+* Ghost house level tile
+* Bridge tile
+* Bowser's Castle entrance tile
+* Castle level tile
+* Closed gate tile
+* Open gate tile
+* Star tile
+* SNES logo
+* Switch Palace level tile
+* Sunken Ship tiles
+
+GFX1F.bin (4bpp) - Cloud Foreground, Forest Foreground
+------------------------------------------------------
+
+* Cloud foreground
+* Tree branch
+* Large tree
+* Forest foreground
+* Forest leaves
+* Vertical worn-down log
+* Horizontal worn-down log
+
+GFX20.bin (4bpp) - Banzai Bill Sprite Set
+-----------------------------------------
+
+* Banzai Bill
+* Rex
+* "4321" (carrot timer numbers)
+* Mega Mole
+* Horizontally moving timed platform, Carrot timed lift
+* Diagonally moving platform, Carrot top lift
+
+GFX21.bin (4bpp) - Bowser Sprite
+--------------------------------
+
+GFX21.bin contains the Bowser tiles from the final boss fight.
+
+* Bowser
+* Bowser's Clown Car
+* Bricks
+
+GFX22.bin (4bpp) - Credits Sprites, Reznor Foreground
+-----------------------------------------------------
+
+* Princess Peach floating down from Bowser's Clown Car
+* Princess Peach blinking
+* Yoshi Egg
+* Princess Peach shrieking for help
+* Bricks
+* Falling Reznor Platform
+* "THANK YOU!" speech bubble
+* Diagonal Podoboo
+* Lava splashes
+* Castle background (unused?)
+
+GFX23.bin (4bpp) - Dino Rhino Sprite Set
+----------------------------------------
+
+* Dino-Torch Flame, Dino Torch fire breath
+* Vertical Yoshi fireball, Vertical Yoshi's fireball (unused)
+* Dino-Torch, Dino Torch
+* `1`, `S`
+* Dino-Rhino, Dino Rhino
+
+GFX24.bin (4bpp) - Mecha-koopa Sprite, Boss Battle Sprite
+---------------------------------------------------------
+
+* Mecha-Koopa, Mecha Koopa
+* Bricks
+* Princess Peach shrieking "HELP!"
+* "HELP!" speech bubble
+* 8x8 Heart
+* Flames that fall when Bowser's Clown Car is off screen
+* Falling Reznor Platform (unused)
+* Bowser's Bowling Ball
+* Boss fireball (as used by Ludwig and other(s?))
+* Big Mario's blush, Mario blushing "overlay"
+
+GFX25.bin (4bpp) - Iggy Sprites, Lemmy Sprites, Reznor Sprites
+--------------------------------------------------------------
+
+Iggy in-game actually uses Larry's hair. To fix that you can apply this patch:
+[Iggy Hair Fix](http://smwc.me/s/4163).
+
+* Iggy
+* Larry
+* Reznor
+* Reznor lava
+
+GFX26.bin (4bpp) - Credits Sprites
+----------------------------------
+
+* Jumping Yoshi
+* Peach
+* Baby Yoshi
+* Yoshi wing
+
+
+GFX27.bin (Mode 7 SNES) - Boss Foreground, Boss Background
+----------------------------------------------------------
+
+* Iggy's and Larry's platform
+* Reznor's rotating background
+
+GFX28.bin (2bpp) - Status Bar, Title Screen, Font
+-------------------------------------------------
+
+* "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ.,×-!"
+* Tiles from the large "SUPER MARIO WORLD™" text as seen in the title screen
+* Status Bar coin
+* "Mario" from the Status Bar
+* "Luigi" from the Status Bar
+* "19 0 Ni" from the "© 1990, 1991 Nintendo" as seen in the title screen
+* Wodden title screen border
+* Item frame from the Status Bar
+* "TIME" from the Status Bar
+* "34567"
+* The star from the Status Bar
+* 8x8 Clock (unused?)
+* "=:" (unused "×" replacements?)
+* "NOUD"
+* Horizontal and vertical arrow
+
+GFX29.bin (2bpp) - Title Screen, Overworld Border, Font
+-------------------------------------------------------
+
+* `VMIOH`
+* Single quote
+* Double quote
+* Star "96" (seen on the titler screen when you've gotten all the overworld exits)
+* Tiles from the large "SUPER MARIO WORLD™" text as seen in the title screen
+* 8x16 "0123456789" (some tiles are re-used)
+* "©" from the "© 1990, 1991 Nintendo" as seen in the title screen
+* Four single color 8x8 tiles
+
+GFX2A.bin (2bpp) - Overworld Border, Font
+-----------------------------------------
+
+* "ABCDEFGHIJKLMNOPQRSTUVWXYZ!.-,? " (overworld font)
+* Outlined comma
+* `Z`
+* "0123456789"
+* `BC`
+* Title screen "selection pointer"
+* "TNS"
+* "ILLUSIYELLOW" (compressed tiles to fit in the overworld border)
+* "?"
+* `0`
+* italic "!"
+* "abcdefghijklmnop"
+* "qrstuvwxyz#()´·"
+* "AND" (seven pixels tall outlined text)
+* Yoshi's paw print
+* "12345670" (overworld font, missing "8" and "9")
+* "12PLAYERGM"
+* Small circle (overworld font)
+* `R`
+* "TM" from the large "SUPER MARIO WORLD™" text as seen in the title screen
+* Layer 3 tides
+
+GFX2B.bin (2bpp) - Layer 3 Backgrounds
+--------------------------------------
+
+* Castle layer 3 background
+* Castle layer 3 smashers
+* Cave layer 3 background
+* Layer 3 fish
+* Layer 3 tides
+* Title screen leftovers ("SUPER MARIO BROS. 4")
+
+GFX2C.bin (4bpp) - Cutscenes
+----------------------------
+
+* Castle (cutscene)
+* Ruined castle (cutscene)
+* Hill (cutscene background)
+* Princess Peach's crown from the "The End" picture
+* Luigi's Body from the "The End" picture
+
+GFX2D.bin (4bpp) - Cutscenes
+----------------------------
+
+* Castle destruction smoke
+* Door
+* Puffs of smoke
+* Mario's hammer
+* Mario's mop
+* "BOMB" action bubble
+* "?"
+* Bomb detonator
+* White flag
+* Princess Peach's body from the "The End" picture
+* `1Y`
+
+GFX2E.bin (4bpp) - Cutscenes
+----------------------------
+
+* Princess Peach waving
+* Streamers for Yoshi's House
+* "THANK YOU" text
+
+
+GFX2F.bin (2bpp) - Credits Font
+-------------------------------
+
+* "ABCDEFGHIJKLMNOPQRSTUVWXYZ-." font used in the credits
+
+GFX30.bin (4bpp) - Credits Picture
+----------------------------------
+
+* Mario from the "The End" picture
+* Luigi's head from the "The End" picture
+
+GFX31.bin (4bpp) - Alternative Global Sprites
+---------------------------------------------
+
+* Mask Koopas
+* Pidgit Bill
+* Jumping Pumpkin Plant
+
+GFX32.bin (4bpp) - Mario
+------------------------
+
+GFX32.bin contains most of the tiles that make up the player sprite. GFX00.bin
+contains some 8x8 that extends the Mario sprite and GFX24.bin contains the
+blushing sprite which is placed over Mario's head when he gets a kiss by Peach
+after rescuing her from Bowser.
+
+* Mario
+
+GFX33.bin (4bpp) - Animations
+-----------------------------
+
+* Stairs
+* "Stair machine"
+* Lava
+* Yoshi
+* Podoboo
+* Baby Yoshi
+* Sea weed
+* ON/OFF block
+* Door
+* Brown "used" block
+* Question mark block, Prize Block
+* Noteblock
+* Spinning Turn block
+* Spinning Coin
+* Water
+* Midway point
+* Various background animations (sparkling)
+* Muncher
+* "Moving rope machine"
+* Horizontally moving rope
+* Diagonally moving rope
+* Sparkling star
+
+Comments
+========
+
+This document was written by dax and is based on project with a similar purpose
+by mvent2.
+
+The idea was to document as much as possible and provide useful comments
+regarding each GFX file exported by Lunar Magic.
+
+This document is written in Markdown, which is a plain-text "tagless" markup
+language for documents. It's supposed to be perfectly readable as is but with a
+Markdown parser you get a little bit extra out of it.
