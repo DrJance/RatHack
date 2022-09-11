@@ -5,6 +5,10 @@ This repo is for organizing the SMW rats nest collab hack and for sharing the re
 If you notice anything wrong, have any questions, or have any suggestions regarding the organization and
 implementation, please reach out to DrJance on Discord or post in the rats nest or den).
 
+\*\*\* **IMPORTANT** \*\*\*
+
+When sharing levels, do not upload .sfc files! Upload the .bps patch instead.
+
 
 
 \*\*\* **SOCIAL CONTRACT** \*\*\*
