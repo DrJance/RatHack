@@ -34,4 +34,5 @@ This is a "gates open, come on in" endeavor. So what "counts" as contribution is
   * Playtesting
   * Helping others with tech problems
   * Iterative ideation
+  * Other things unlisted but which should count
 
