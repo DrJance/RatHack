@@ -28,6 +28,7 @@ This is a "gates open, come on in" endeavor. So what "counts" as contribution is
   * Designing or building a level
   * Designing or building parts of the overworld
   * Designing or building a new enemy/boss
+  * Writing ASM
   * Transcribing or implementing music
   * Sprite and graphics work
   * Other miscellaneous Lunar Magic contributions (cutscenes, credits, etc.)
